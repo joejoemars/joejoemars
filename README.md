@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joejoemars1357
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Lua ~~and Unreal Engine 4~~
+- 👀 I’m interested in website development
+- 🌱 I’m currently learning Lua, HTML, and CSS
 - 📫 Please do not reach out to me
 
 <!---
