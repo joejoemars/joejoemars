@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @joejoemars1
-- 👀 I’m interested in website and game development
-- 🌱 I’m currently learning Lua, Javascript, HTML, and CSS
-- 📫 Twitter, I guess? DM's should be open!
-
+- hi im joejoemars nice to meet ya
 <!---
 joejoemars1357/joejoemars1357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
